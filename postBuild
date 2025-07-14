@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/he8mu_src")' >> /home/jovyan/.Rprofile
